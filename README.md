@@ -18,8 +18,6 @@
 
 ### RMSE(Root Mean Square Error)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc5c1c28-6a84-4652-9fe7-04c3cd87e6d1/Untitled.png)
-
 - 예측 오차의 제곱합을 산술평균한 값의 제곱근
 - 최종 점수는 Private 100%로 평가 (Public 미반영)
 
@@ -39,7 +37,3 @@
     
     - 고속도로 코드와 명칭 매핑
         
-        [제목 없음](https://www.notion.so/10059701e96e47b29c0c70faed1f6bb4)
-        
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00637ba0-c122-43e9-a4a0-c6541d90af2b/Untitled.png)
